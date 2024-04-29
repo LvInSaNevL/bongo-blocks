@@ -10,11 +10,11 @@ The boys annual Minecraft kick - 2024 edition
 - [Optifine](https://optifine.net/downloads)
 - [Optifabric](https://www.curseforge.com/minecraft/mc-mods/optifabric)
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
-- [Simple Voice Chat]()
+- [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
 
 ## Server-Side Mods
 - [Fabric](https://fabricmc.net/)
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create-fabric)
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
     - Required for Create
-- [Simple Voice Chat]()
+- [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
