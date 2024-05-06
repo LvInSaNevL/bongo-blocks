@@ -18,3 +18,4 @@ The boys annual Minecraft kick - 2024 edition
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
     - Required for Create
 - [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
+- [Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/tschipcrafts-dynamic-lights-modz)
