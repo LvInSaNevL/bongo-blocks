@@ -19,3 +19,8 @@ The boys annual Minecraft kick - 2024 edition
     - Required for Create
 - [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
 - [Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/tschipcrafts-dynamic-lights-modz)
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
+- [Spark](https://www.curseforge.com/minecraft/mc-mods/spark)
+    - Performance monitoring and system profiler
+- [Leaves Be Gone](https://www.curseforge.com/minecraft/mc-mods/leaves-be-gone)
+- [Let Me Despawn](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn)
