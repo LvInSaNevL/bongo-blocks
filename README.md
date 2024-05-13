@@ -23,17 +23,17 @@ The boys annual Minecraft kick - 2024 edition
 - Gameplay Mods
 	- [Create](https://www.curseforge.com/minecraft/mc-mods/create)
 	- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
-    	- Required for Create
-	- [Primal Magick] (https://www.curseforge.com/minecraft/mc-mods/primal-magick)
-	- [Simple Voice Chat] (https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
-	- [Dynamic Lights] (https://www.curseforge.com/minecraft/mc-mods/tschipcrafts-dynamic-lights-mod)
+    		- Required for Create
+	- [Primal Magick](https://www.curseforge.com/minecraft/mc-mods/primal-magick)
+	- [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
+	- [Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/tschipcrafts-dynamic-lights-mod)
 	- [Warp Portals](https://www.curseforge.com/minecraft/data-packs/warp-portals-portal-teleportation)
 	- [GraveStone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 	- [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits) 
 - Server Performance Mods
 	- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 	- [Spark](https://www.curseforge.com/minecraft/mc-mods/spark)
-    	- Performance monitoring and system profiler
+    		- Performance monitoring and system profiler
 	- [Leaves Be Gone](https://www.curseforge.com/minecraft/mc-mods/leaves-be-gone)
 	- [Let Me Despawn](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn)
 
