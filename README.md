@@ -17,9 +17,9 @@ The boys annual Minecraft kick - 2024 edition
     - [Create](https://www.curseforge.com/minecraft/mc-mods/create)
     - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
         - Required for Create
+    - [Primal Magick](https://www.curseforge.com/minecraft/mc-mods/primal-magick)
     - [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
     - [Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/tschipcrafts-dynamic-lights-modz)
-    - [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
     - [Warp Portals](https://www.curseforge.com/minecraft/data-packs/warp-portals-portal-teleportation)
     - [GraveStone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 - Server Performance Mods
