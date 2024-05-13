@@ -21,15 +21,15 @@ The boys annual Minecraft kick - 2024 edition
 ## Server-Side Mods
 - [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)
 - Gameplay Mods
-	- [Create](https://www.curseforge.com/minecraft/mc-mods/create/files/4835191)
-	- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei/files/5101366)
+	- [Create](https://www.curseforge.com/minecraft/mc-mods/create)
+	- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
     	- Required for Create
-	- [Primal Magick] (https://www.curseforge.com/minecraft/mc-mods/primal-magick/files/4965092)
-	- [Simple Voice Chat] (https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/5329148)
-	- [Dynamic Lights] (https://www.curseforge.com/minecraft/mc-mods/tschipcrafts-dynamic-lights-mod/files/4738392)
+	- [Primal Magick] (https://www.curseforge.com/minecraft/mc-mods/primal-magick)
+	- [Simple Voice Chat] (https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
+	- [Dynamic Lights] (https://www.curseforge.com/minecraft/mc-mods/tschipcrafts-dynamic-lights-mod)
 	- [Warp Portals](https://www.curseforge.com/minecraft/data-packs/warp-portals-portal-teleportation)
 	- [GraveStone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
-	- [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits/files/all?page=1&pageSize=20&gameVersionTypeId=1) 
+	- [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits) 
 - Server Performance Mods
 	- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 	- [Spark](https://www.curseforge.com/minecraft/mc-mods/spark)
