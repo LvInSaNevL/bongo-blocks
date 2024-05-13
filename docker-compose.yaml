@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  bongo_blocks:
+    image: itzg/minecraft-server
+    ports:
+      - "8008:25565"
+      - "8009:24454/udp" #Voice Chat
+    volumes:
+      - "/bulk/game_servers/bongo_blocks/saveData:/data"
+      - "/bulk/game_servers/bongo_blocks/mods:/data/mods"
+      - "/bulk/game_servers/bongo_blocks/datapacks:/data/datapacks"
+    environment:
+      EULA: "TRUE"
+      TYPE: "FORGE"
+      VERSION: "1.20.1"
+      ENABLE_AUTOPAUSE: "TRUE"
+      MAX_MEMORY: 48G
+      OVERRIDE_SERVER_PROPERTIES: "TRUE"
+      MAX_TICK_TIME: "-1"
+      # More aggressive settings for demo purposes
+      AUTOPAUSE_TIMEOUT_INIT: "300"
+      AUTOPAUSE_TIMEOUT_EST: "225"
+    restart: unless-stopped
