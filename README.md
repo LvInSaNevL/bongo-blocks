@@ -21,6 +21,7 @@ The boys annual Minecraft kick - 2024 edition
     - [Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/tschipcrafts-dynamic-lights-modz)
     - [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
     - [Warp Portals](https://www.curseforge.com/minecraft/data-packs/warp-portals-portal-teleportation)
+    - [GraveStone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 - Server Performance Mods
     - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
     - [Spark](https://www.curseforge.com/minecraft/mc-mods/spark)
