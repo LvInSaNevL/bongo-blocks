@@ -20,6 +20,7 @@ The boys annual Minecraft kick - 2024 edition
     - [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
     - [Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/tschipcrafts-dynamic-lights-modz)
     - [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
+    - [Warp Portals](https://www.curseforge.com/minecraft/data-packs/warp-portals-portal-teleportation)
 - Server Performance Mods
     - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
     - [Spark](https://www.curseforge.com/minecraft/mc-mods/spark)
