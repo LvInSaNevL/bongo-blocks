@@ -6,25 +6,34 @@ The boys annual Minecraft kick - 2024 edition
 2. Thats it
 3. Literally thats it
 
-## Client-Side Mods 
+## Rules
+1. All farms *must* be in the industrial district
+2. All farms *must* have an off-switch
+3. No furry shit (you **will** be banned)
+4. No lag generators
+5. Have fun and please be nice to Bistack :) 
+
+## Client-Side Mods
 - [Optifine](https://optifine.net/downloads)
-- [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.4.html)
+- [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)
 - [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
 
 ## Server-Side Mods
-- [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.4.html)
+- [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)
 - Gameplay Mods
-    - [Create](https://www.curseforge.com/minecraft/mc-mods/create)
-    - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
-        - Required for Create
-    - [Primal Magick](https://www.curseforge.com/minecraft/mc-mods/primal-magick)
-    - [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
-    - [Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/tschipcrafts-dynamic-lights-modz)
-    - [Warp Portals](https://www.curseforge.com/minecraft/data-packs/warp-portals-portal-teleportation)
-    - [GraveStone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
+	- [Create](https://www.curseforge.com/minecraft/mc-mods/create/files/4835191)
+	- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei/files/5101366)
+    	- Required for Create
+	- [Primal Magick] (https://www.curseforge.com/minecraft/mc-mods/primal-magick/files/4965092)
+	- [Simple Voice Chat] (https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/5329148)
+	- [Dynamic Lights] (https://www.curseforge.com/minecraft/mc-mods/tschipcrafts-dynamic-lights-mod/files/4738392)
+	- [Warp Portals](https://www.curseforge.com/minecraft/data-packs/warp-portals-portal-teleportation)
+	- [GraveStone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
+	- [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits/files/all?page=1&pageSize=20&gameVersionTypeId=1) 
 - Server Performance Mods
-    - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
-    - [Spark](https://www.curseforge.com/minecraft/mc-mods/spark)
-        - Performance monitoring and system profiler
-    - [Leaves Be Gone](https://www.curseforge.com/minecraft/mc-mods/leaves-be-gone)
-    - [Let Me Despawn](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn)
+	- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
+	- [Spark](https://www.curseforge.com/minecraft/mc-mods/spark)
+    	- Performance monitoring and system profiler
+	- [Leaves Be Gone](https://www.curseforge.com/minecraft/mc-mods/leaves-be-gone)
+	- [Let Me Despawn](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn)
+
