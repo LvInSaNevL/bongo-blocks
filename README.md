@@ -14,7 +14,7 @@ The boys annual Minecraft kick - 2024 edition
 ## Server-Side Mods
 - [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.4.html)
 - Gameplay Mods
-    - [Create](https://www.curseforge.com/minecraft/mc-mods/create-fabric)
+    - [Create](https://www.curseforge.com/minecraft/mc-mods/create)
     - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
         - Required for Create
     - [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
