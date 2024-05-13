@@ -17,7 +17,12 @@ The boys annual Minecraft kick - 2024 edition
 - [Optifine](https://optifine.net/downloads)
 - [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)
 - [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
-
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create)
+- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
+	- Required for Create
+- [GraveStone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
+- [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
+  
 ## Server-Side Mods
 - [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)
 - Gameplay Mods
