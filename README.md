@@ -28,11 +28,13 @@ The boys annual Minecraft kick - 2024 edition
 - Gameplay Mods
 	- [Create](https://www.curseforge.com/minecraft/mc-mods/create)
 	- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
-    		- Required for Create
+    	- Required for Create
 	- [Primal Magick](https://www.curseforge.com/minecraft/mc-mods/primal-magick)
 	- [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
 	- [Warp Portals](https://www.curseforge.com/minecraft/data-packs/warp-portals-portal-teleportation)
 	- [GraveStone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
+	- [PuzzlesLib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)
+		- Required for GraveStone
 	- [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits) 
 - Server Performance Mods
 	- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
