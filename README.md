@@ -4,7 +4,7 @@ The boys annual Minecraft kick - 2024 edition
 ## Instructions
 1. Download [Minecraft](https://www.minecraft.net/en-us/download) Java Edition and install it
 2. Launch the 1.20.1 version of Minecraft, once you get to the menu you can close out of Minecraft
-3. Download this repository by clicking the green `<> Code` button above and then clicking the `Download ZIP` button. Alternatively download the project from the [releases tab]()
+3. Download this repository by clicking the green `<> Code` button above and then clicking the `Download ZIP` button. Alternatively download the project from the [releases tab](https://github.com/LvInSaNevL/bongo-blocks/archive/refs/tags/release.zip)
 4. Unzip the folder
 5. Double click on the `forge-1.20.1-47.2.32.jar` file and it should open the installer window. 
 	- Make sure the "Install Client" option is selected before hitting `OK` to begin the install (it should be selected by default)
