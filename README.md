@@ -2,6 +2,7 @@
 The boys annual Minecraft kick - 2024 edition
 
 ## Instructions
+### If at *any* time you have issues or questions, please feel free to reach out to me or Lukas
 1. Download [Minecraft](https://www.minecraft.net/en-us/download) Java Edition and install it
 2. Launch the 1.20.1 version of Minecraft, once you get to the menu you can close out of Minecraft
 	- For instructions on how to install a different version of Minecraft, use [this guide](https://help.minecraft.net/hc/en-us/articles/360034754852-Change-Game-Version-for-Minecraft-Java-Edition)
@@ -25,7 +26,7 @@ The boys annual Minecraft kick - 2024 edition
 2. All farms *must* have an off-switch
 3. No furry shit (you **will** be banned)
 4. No lag generators
-5. Have fun and please be nice to Bistack :) 
+5. Have fun and please be nice to Bistack :)
 
 ## Client-Side Mods
 - [Optifine](https://optifine.net/downloads)
