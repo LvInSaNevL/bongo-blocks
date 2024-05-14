@@ -2,9 +2,20 @@
 The boys annual Minecraft kick - 2024 edition
 
 ## Instructions
-1. Copy mods to your `mods` folder
-2. Thats it
-3. Literally thats it
+1. Download [Minecraft](https://www.minecraft.net/en-us/download) Java Edition and install it
+2. Launch the 1.20.1 version of Minecraft, once you get to the menu you can close out of Minecraft
+3. Download this repository by clicking the green `<> Code` button above and then clicking the `Download ZIP` button. Alternatively download the project from the [releases tab]()
+4. Unzip the folder
+5. Double click on the `forge-1.20.1-47.2.32.jar` file and it should open the installer window. 
+	- Make sure the "Install Client" option is selected before hitting `OK` to begin the install (it should be selected by default)
+	- The installer will handle everything automatically, and you can simply close it when it is done
+6. Navigate to `%appdata%\.minecraft` in your file explorer
+7. Copy the `mods` folder to the `.minecraft` folder you just opened
+	- If you already had mods installed you will need to rename the folder to something else (i.e. "old-mods")
+8. Launch the Minecraft launcher and make sure it is set to Forge 1.20.1
+9. Add the server
+	- The servers IP address is `68.45.239.183:8008`
+10. Join the server!
 
 ## Rules
 1. All farms *must* be in the industrial district
@@ -21,6 +32,8 @@ The boys annual Minecraft kick - 2024 edition
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
 	- Required for Create
 - [GraveStone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
+- [PuzzlesLib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)
+	- Required for GraveStone
 - [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
   
 ## Server-Side Mods
