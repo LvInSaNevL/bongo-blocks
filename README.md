@@ -19,7 +19,7 @@ The boys annual Minecraft kick - 2024 edition
 	- It may warn you about 3rd party launchers, just ignore it I picky promise I'm only gonna hack you a lil bit ;)
 11. Add the server
 	- The servers IP address is `68.45.239.183:8008`
-12. Join the server!
+12. Join the server and have fun!
 
 ## Rules
 1. All farms *must* be in the industrial district
