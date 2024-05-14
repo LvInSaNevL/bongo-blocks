@@ -10,13 +10,15 @@ The boys annual Minecraft kick - 2024 edition
 6. Double click on the `forge-1.20.1-47.2.32.jar` file and it should open the installer window. 
 	- Make sure the "Install Client" option is selected before hitting `OK` to begin the install (it should be selected by default)
 	- The installer will handle everything automatically, and you can simply close it when it is done
-7. Navigate to `%appdata%\.minecraft` in your file explorer
+        - If the installer just closes immedately, or if it has any errors just let me know. We can troubleshoot it together!
+7. Navigate to `%appdata%\.minecraft` in another file explorer window
 8. Copy the `mods` folder to the `.minecraft` folder you just opened
 	- If you already had mods installed you will need to rename the folder to something else (i.e. "old-mods")
 9. Launch the Minecraft launcher and make sure it is set to Forge 1.20.1
-10. Add the server
+	- It may warn you about 3rd party launchers, just ignore it I picky promise I'm only gonna hack you a lil bit ;)
+11. Add the server
 	- The servers IP address is `68.45.239.183:8008`
-11. Join the server!
+12. Join the server!
 
 ## Rules
 1. All farms *must* be in the industrial district
